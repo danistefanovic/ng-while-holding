@@ -5,7 +5,6 @@
     "Daniel Stefanovic <daniel.stefanovic@gmail.com>"
   ],
   "main": "dist/ng-while-holding.min.js",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
