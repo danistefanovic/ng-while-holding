@@ -1,14 +1,14 @@
 {
   "name": "ng-while-holding",
   "version": "0.1.0",
-  "description": "",
+  "description": "AngularJS directive to evaluate an expression when an element is clicked and holded",
   "main": "dist/ng-while-holding.min.js",
   "scripts": {
     "test": "karma start test/karma.conf.js",
     "build": "gulp build"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel Stefanovic",
+  "repository": "https://github.com/danielstefanovic/ng-while-holding",
   "devDependencies": {
     "angular-mocks": "^1.3.15",
     "chai": "^2.1.2",

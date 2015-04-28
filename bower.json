@@ -1,10 +1,19 @@
 {
   "name": "ng-while-holding",
+  "description": "AngularJS directive to evaluate an expression when an element is clicked and holded",
   "version": "0.1.0",
   "authors": [
     "Daniel Stefanovic <daniel.stefanovic@gmail.com>"
   ],
+  "homepage": "https://github.com/danielstefanovic/ng-while-holding",
   "main": "dist/ng-while-holding.min.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "press",
+    "tap",
+    "hold"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
