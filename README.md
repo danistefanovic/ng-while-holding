@@ -11,7 +11,7 @@ npm install ng-while-holding --save
 
 Via [Bower](http://bower.io/):
 ```sh
-bower install ng-while-holding
+bower install ng-while-holding --save
 ```
 
 
