@@ -2,6 +2,18 @@
 
 ng-while-holding is an AngularJS directive to evaluate an expression when an element is clicked and holded.
 
+## Installation
+
+Via [npm](http://www.npmjs.com/):
+```sh
+npm install ng-while-holding --save
+```
+
+Via [Bower](http://bower.io/):
+```sh
+bower install ng-while-holding
+```
+
 
 ## Usage
 
